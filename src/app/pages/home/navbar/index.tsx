@@ -27,7 +27,7 @@ const Navbar = () => {
           <ul className="flex justify-between items-center">
             <Link href="#">
               <Image
-                src="./images/logo.png"
+                src="/images/Logo.png"
                 alt="logo"
                 width={105}
                 height={69}
