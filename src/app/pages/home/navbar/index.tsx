@@ -27,7 +27,7 @@ const Navbar = () => {
           <ul className="flex justify-between items-center">
             <Link href="#">
               <Image
-                src="/images/logo.png"
+                src="./images/logo.png"
                 alt="logo"
                 width={105}
                 height={69}
@@ -87,7 +87,7 @@ const Navbar = () => {
                 <Button className="flex justify-center items-center text-[#52B497] py-[5px] px-[10px] bg-white rounded-md gap-[6px]">
                   Log in{" "}
                   <Image
-                    src="/images/icons/log-in-01.png"
+                    src="./images/icons/log-in-01.png"
                     alt="login"
                     width={15}
                     height={15}
@@ -99,7 +99,7 @@ const Navbar = () => {
                 <Button className="flex justify-center items-center text-[#52B497] py-[5px] px-[10px] bg-white rounded-md gap-[6px]">
                   Sign up{" "}
                   <Image
-                    src="/images/icons/edit-05.png"
+                    src="./images/icons/edit-05.png"
                     alt="signup"
                     width={15}
                     height={15}

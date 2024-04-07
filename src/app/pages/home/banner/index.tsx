@@ -13,7 +13,7 @@ const Banner = () => {
         <div className="flex flex-col sm:flex-row w-full max-w-[800px] bg-[#F2FAF6] px-4 xs:px-2 py-2 rounded-lg mt-11 sm:divide-x sm:divide-gray-300">
           <div className="flex items-center w-full sm:w-[278px] gap-2 mb-2 sm:mb-0">
             <Image
-              src="/images/icons/search-icon.png"
+              src="./images/icons/search-icon.png"
               alt="logo"
               width={20}
               height={20}
@@ -26,7 +26,7 @@ const Banner = () => {
           </div>
           <div className="mx-2 my-auto hidden sm:hidden">
             <Image
-              src="/images/icons/Line-icon.png"
+              src="./images/icons/Line-icon.png"
               alt="logo"
               width={1}
               height={0}
@@ -34,7 +34,7 @@ const Banner = () => {
           </div>
           <div className="flex items-center w-full sm:w-[278px] gap-2 mb-2 sm:mb-0">
             <Image
-              src="/images/icons/location-icon.png"
+              src="./images/icons/location-icon.png"
               alt="logo"
               width={20}
               height={20}
@@ -47,7 +47,7 @@ const Banner = () => {
           </div>
           <div className="flex items-center w-full sm:w-[106px] pr-6 mb-2 sm:mb-0">
             <Image
-              src="/images/icons/location-finder-icon.png"
+              src="./images/icons/location-finder-icon.png"
               alt="logo"
               width={20}
               height={20}
@@ -60,7 +60,7 @@ const Banner = () => {
               </span>
               <div className="transition-all ease-out duration-300">
                 <Image
-                  src="/images/icons/banner-search-arrow-icon.png"
+                  src="./images/icons/banner-search-arrow-icon.png"
                   alt="logo"
                   width={10}
                   height={11}

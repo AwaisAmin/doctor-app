@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="w-full h-[450px] px-[150px]">
         <div className="h-[351px] gap-[40px]">
           <Image
-            src="/images/footer-icons/Line-2.png"
+            src="./images/footer-icons/Line-2.png"
             alt="footer-line"
             width={1400}
             height={1}
@@ -21,7 +21,7 @@ const Footer = () => {
                 </div>
                 <Link href="#">
                   <Image
-                    src="/images/footer-icons/insta-icon.png"
+                    src="./images/footer-icons/insta-icon.png"
                     alt="insta-icon"
                     width={20}
                     height={18}
@@ -29,7 +29,7 @@ const Footer = () => {
                 </Link>
                 <Link href="#">
                   <Image
-                    src="/images/footer-icons/lnkd-icon.png"
+                    src="./images/footer-icons/lnkd-icon.png"
                     alt="lndk-icon"
                     width={20}
                     height={18}
@@ -37,7 +37,7 @@ const Footer = () => {
                 </Link>
                 <Link href="#">
                   <Image
-                    src="/images/footer-icons/mail-icon.png"
+                    src="./images/footer-icons/mail-icon.png"
                     alt="mail-icon"
                     width={20}
                     height={18}

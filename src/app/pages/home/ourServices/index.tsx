@@ -10,7 +10,7 @@ const OurServices = () => {
       <div className="flex justify-between items-center">
         <div className="flex flex-col justify-center items-center">
           <Image
-            src="/images/ellipse1.png"
+            src="./images/ellipse1.png"
             alt="ellipse"
             width={200}
             height={200}
@@ -22,7 +22,7 @@ const OurServices = () => {
         </div>
         <div className="flex flex-col justify-center items-center">
           <Image
-            src="/images/ellipse-3.png"
+            src="./images/ellipse-3.png"
             alt="ellipse"
             width={200}
             height={200}
@@ -34,7 +34,7 @@ const OurServices = () => {
         </div>
         <div className="flex flex-col justify-center items-center">
           <Image
-            src="/images/ellipse-2.png"
+            src="./images/ellipse-2.png"
             alt="ellipse"
             width={200}
             height={200}

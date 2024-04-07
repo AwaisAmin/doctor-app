@@ -52,7 +52,7 @@ const DoctorFacility = () => {
         </Button>
       </div>
       <Image
-        src="/images/doctors-img.png"
+        src="./images/doctors-img.png"
         width={460}
         height={175}
         alt="doc-image"

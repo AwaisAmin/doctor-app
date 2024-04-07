@@ -20,7 +20,7 @@ const Blog = () => {
         </Button>
       </div>
       <Image
-        src="/images/youtube-thumnail.png"
+        src="./images/youtube-thumnail.png"
         width={349}
         height={196}
         alt="youtube-video"
